@@ -1,0 +1,26 @@
+{
+  "name": "one-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "One-Queue",
+    "All",
+    "in",
+    "one",
+    "service",
+    "for",
+    "queues",
+    "and",
+    "waiting",
+    "lines"
+  ],
+  "author": "Team Optmizers, Kashif Raza",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
